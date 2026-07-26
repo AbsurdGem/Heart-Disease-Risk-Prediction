@@ -1,0 +1,9 @@
+Model,Classification,Count
+Logistic Regression,True Negative,60
+Logistic Regression,False Positive,22
+Logistic Regression,False Negative,12
+Logistic Regression,True Positive,90
+Neural Network,True Negative,65
+Neural Network,False Positive,17
+Neural Network,False Negative,15
+Neural Network,True Positive,87

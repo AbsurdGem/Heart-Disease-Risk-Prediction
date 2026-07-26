@@ -1,0 +1,5 @@
+Scenario,Predicted Risk,Change from Baseline
+Baseline,0.3852278,0.0
+Improved Heart Health,0.41095397,0.02572617
+Higher Risk,0.7485056,0.3632778
+Older High-Risk Patient,0.8557811,0.47055328

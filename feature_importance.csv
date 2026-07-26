@@ -1,0 +1,16 @@
+Feature,Coefficient,Absolute Importance,Effect
+cp_atypical angina,-0.7993310578055808,0.7993310578055808,Decreases Predicted Risk
+oldpeak,0.5622399442748885,0.5622399442748885,Increases Predicted Risk
+cp_non-anginal,-0.5032025408704809,0.5032025408704809,Decreases Predicted Risk
+exang_True,0.49574108238926745,0.49574108238926745,Increases Predicted Risk
+sex_Male,0.49131607781226766,0.49131607781226766,Increases Predicted Risk
+chol,-0.4245323406943679,0.4245323406943679,Decreases Predicted Risk
+slope_flat,0.4159755723094006,0.4159755723094006,Increases Predicted Risk
+age,0.3788736365251821,0.3788736365251821,Increases Predicted Risk
+cp_typical angina,-0.24274787958827934,0.24274787958827934,Decreases Predicted Risk
+thalch,-0.24023538979212006,0.24023538979212006,Decreases Predicted Risk
+restecg_normal,-0.1796331569251477,0.1796331569251477,Decreases Predicted Risk
+fbs_True,0.1627299847184882,0.1627299847184882,Increases Predicted Risk
+slope_upsloping,0.13195946217956148,0.13195946217956148,Increases Predicted Risk
+restecg_st-t abnormality,-0.0737792628943437,0.0737792628943437,Decreases Predicted Risk
+trestbps,0.050572456306241395,0.050572456306241395,Increases Predicted Risk
